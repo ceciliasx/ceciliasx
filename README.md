@@ -1,6 +1,6 @@
 # Hi, I'm Mary A. Priscilla 👋
 
-I'm a computer science undergraduate passionate about **AI and Data Analytics**.
+I'm a 5th semester computer science undergraduate passionate about **AI and Data Analytics**.
 
 [![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
 
@@ -8,6 +8,7 @@ I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,6 +27,7 @@ I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 ![Flowchart](https://img.shields.io/badge/-Flowchart-6E6E6E?style=for-the-badge)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4BCFFA?style=for-the-badge)
+![Exploratory Data Analysis](https://img.shields.io/badge/-EDA-4BCFFA?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FCA121?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/-AI-FF6F61?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4BCFFA?style=for-the-badge)
@@ -44,6 +46,7 @@ I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-anggita-priscilla-b275562a7/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillastext@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cecilxies/)
 
 ## ⚡ Fun fact
 I love solving riddles, chess, and learning new tech every day! 🚀
