@@ -1,8 +1,12 @@
-<p align="center">
-  <h1>Hi, I'm Mary A. Priscilla 👋</h1>
-  <p>I'm a <strong>5th semester Computer Science undergraduate</strong> passionate about <strong>AI 🤖 and Data Analytics 📊</strong>.</p>
-  <p>Welcome to my GitHub! 🚀</p>
-</p>
+<div align="center">
+
+# Hi, I'm Mary A. Priscilla 👋
+
+I'm a **5th semester Computer Science undergraduate** passionate about **AI 🤖 and Data Analytics 📊**.
+
+Welcome to my GitHub! 🚀
+
+</div>
 
 [![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
 
@@ -44,8 +48,6 @@
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-4B8BBE?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-6A5ACD?style=for-the-badge)
 ![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-20B2AA?style=for-the-badge)
-
-### 🛠 Embedded / IoT / Software Engineering
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-FF8C00?style=for-the-badge)
 ![Internet of Things](https://img.shields.io/badge/-IoT-00BFFF?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/-Software_Engineering-4682B4?style=for-the-badge)
