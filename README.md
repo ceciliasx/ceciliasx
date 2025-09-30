@@ -1,6 +1,8 @@
-# Hi, I'm Mary A. Priscilla 👋
-
-I'm a 5th semester computer science undergraduate passionate about **AI and Data Analytics**.
+<p align="center">
+  <h1>Hi, I'm Mary A. Priscilla 👋</h1>
+  <p>I'm a <strong>5th semester Computer Science undergraduate</strong> passionate about <strong>AI 🤖 and Data Analytics 📊</strong>.</p>
+  <p>Welcome to my GitHub! 🚀</p>
+</p>
 
 [![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
 
@@ -70,4 +72,6 @@ I'm a 5th semester computer science undergraduate passionate about **AI and Data
 ## ⚡ Fun fact
 I love solving riddles, chess, and learning new tech every day! 🚀
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&layout=compact)
+<td rowspan="2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&langs_count=10&hide_border=false" alt="Top Language"/>
+</td>
