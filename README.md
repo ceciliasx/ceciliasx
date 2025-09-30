@@ -38,6 +38,7 @@ I'm a 5th semester computer science undergraduate passionate about **AI and Data
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4BCFFA?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F61?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-FF8C00?style=for-the-badge)
+![Internet of Things](https://img.shields.io/badge/-IoT-00BFFF?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-4B8BBE?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-6A5ACD?style=for-the-badge)
 ![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-20B2AA?style=for-the-badge)
