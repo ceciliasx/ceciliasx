@@ -4,7 +4,7 @@
 
 <p>Welcome to my GitHub! 👻</p>
 
-[![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
+[![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-pink?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
 
 ![AI GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc4ZHFpZG04Y3d6cTR1ODRiczcwdzRxenViaHkxanVnaDF2OXFmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95KXUUMytHCF6mqlU0/giphy.gif)
 
