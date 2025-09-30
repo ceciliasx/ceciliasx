@@ -1,16 +1,21 @@
-<div align="center">
+<div align="center" style="background-color:white; border-radius:15px; padding:20px; display:inline-block;">
 
-# Hi, I'm Mary A. Priscilla 👋
+<h1>Hi, I'm Mary A. Priscilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></h1>
 
-I'm a **5th semester Computer Science undergraduate** passionate about **AI 🤖 and Data Analytics 📊**.
+<p>I'm a <strong>5th semester Computer Science undergraduate</strong> passionate about <strong>AI 🤖 and Data Analytics 📊</strong>.</p>
 
-Welcome to my GitHub! 🚀
+<p>Welcome to my GitHub! 🚀</p>
 
 </div>
+
+<div align="center">
 
 [![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
 
 ![AI GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc4ZHFpZG04Y3d6cTR1ODRiczcwdzRxenViaHkxanVnaDF2OXFmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95KXUUMytHCF6mqlU0/giphy.gif)
+
+</div>
+
 
 ## 🛠 Skills & Learning
 
