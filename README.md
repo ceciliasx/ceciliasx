@@ -72,6 +72,4 @@
 ## ⚡ Fun fact
 I love solving riddles, chess, and learning new tech every day! 🚀
 
-<td rowspan="2">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&langs_count=10&hide_border=false" alt="Top Language"/>
-</td>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&layout=compact)
