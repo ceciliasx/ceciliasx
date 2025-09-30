@@ -36,7 +36,7 @@
 
 ### 🤖 AI & Data Science
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-4BCFFA?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4BCFFA?style=for-the-badge)
 ![Exploratory Data Analysis](https://img.shields.io/badge/-EDA-4BCFFA?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FCA121?style=for-the-badge)
