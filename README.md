@@ -26,6 +26,7 @@ I'm a 5th semester computer science undergraduate passionate about **AI and Data
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Flowchart](https://img.shields.io/badge/-Flowchart-6E6E6E?style=for-the-badge)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4BCFFA?style=for-the-badge)
 ![Exploratory Data Analysis](https://img.shields.io/badge/-EDA-4BCFFA?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FCA121?style=for-the-badge)
