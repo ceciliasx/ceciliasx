@@ -47,7 +47,8 @@
 ![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-20B2AA?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-FF8C00?style=for-the-badge)
 ![Internet of Things](https://img.shields.io/badge/-IoT-00BFFF?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/-Software_Engineering-4682B4?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-2C2C54?style=for-the-badge)
 
 ### 🎨 UI/UX & Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
