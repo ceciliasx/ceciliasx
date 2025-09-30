@@ -11,6 +11,4 @@ I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 ## ⚡ Fun fact
 I love solving riddles, chess, and learning new tech every day! 🚀
 
-![Ceyy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliasx&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&layout=compact)
