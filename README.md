@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ceyy 👋
 
-<!--
-**ceciliasx/ceciliasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+- Email: priscillastext@gmail.com
+- LinkedIn: [linkedin.com/in/ceyy](https://www.linkedin.com/in/mary-anggita-priscilla-b275562a7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+I love solving riddles, chess, and learning new tech every day! 🚀
+
+![Ceyy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ceyy&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyy&layout=compact)
+
+![AI GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc4ZHFpZG04Y3d6cTR1ODRiczcwdzRxenViaHkxanVnaDF2OXFmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95KXUUMytHCF6mqlU0/giphy.gif)
