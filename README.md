@@ -2,7 +2,7 @@
 
 <p>I'm a <strong>5th semester Computer Science undergraduate</strong> passionate about <strong>AI 🤖 and Data Analytics 📊</strong>.</p>
 
-<p>Welcome to my GitHub! 🚀</p>
+<p>Welcome to my GitHub! 👻</p>
 
 [![Check out my portfolio!](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://priscillastext.wixsite.com/mary-portfolio)
 
@@ -69,6 +69,6 @@
 ![AI GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ2eGt3YWZhcTB0MnpjaW05bXZhbnF5dDNsZDduZHB1cDk3YjZyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jjo6WPW26zDdS/giphy.gif)
 
 ## ⚡ Fun fact
-I love solving riddles, chess, and learning new tech every day! 🚀
+I love solving riddles, chess, and learning new tech every day! 😼
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&layout=compact)
