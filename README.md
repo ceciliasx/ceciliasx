@@ -1,4 +1,4 @@
-# Hi, I'm Ceyy 👋
+# Hi, I'm Mary A. Priscilla 👋
 
 I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 
@@ -6,7 +6,7 @@ I'm a computer science undergraduate passionate about **AI and Data Analytics**.
 
 ## 📫 How to reach me
 - Email: priscillastext@gmail.com
-- LinkedIn: [linkedin.com/in/ceyy](https://www.linkedin.com/in/mary-anggita-priscilla-b275562a7/)
+- LinkedIn: [linkedin.com/in/ceciliasx](https://www.linkedin.com/in/mary-anggita-priscilla-b275562a7/)
 
 ## ⚡ Fun fact
 I love solving riddles, chess, and learning new tech every day! 🚀
