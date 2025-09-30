@@ -53,6 +53,8 @@ I'm a 5th semester computer science undergraduate passionate about **AI and Data
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillastext@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cecilxies/)
 
+![AI GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ2eGt3YWZhcTB0MnpjaW05bXZhbnF5dDNsZDduZHB1cDk3YjZyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jjo6WPW26zDdS/giphy.gif)
+
 ## ⚡ Fun fact
 I love solving riddles, chess, and learning new tech every day! 🚀
 
