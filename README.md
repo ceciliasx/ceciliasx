@@ -8,7 +8,7 @@
 
 ![AI GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc4ZHFpZG04Y3d6cTR1ODRiczcwdzRxenViaHkxanVnaDF2OXFmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95KXUUMytHCF6mqlU0/giphy.gif)
 
-
+<!--
 ## 🛠 Skills & Learning
 
 ### 💻 Programming Languages
@@ -62,6 +62,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/-Discord.py-7289DA?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?style=for-the-badge)
+-->
 
 ## 📧 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-anggita-priscilla-b275562a7/)
