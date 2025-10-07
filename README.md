@@ -67,7 +67,7 @@
 ## 📧 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-anggita-priscilla-b275562a7/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillastext@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cecilxies/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cecilxies/) -->
 
 ![AI GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ2eGt3YWZhcTB0MnpjaW05bXZhbnF5dDNsZDduZHB1cDk3YjZyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jjo6WPW26zDdS/giphy.gif)
 
