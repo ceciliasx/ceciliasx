@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mary A. Priscilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></h1>
 
-<p>I'm a <strong>last year Computer Science undergraduate</strong> passionate about <strong>AI 🤖 and Data Analytics 📊</strong>. Currently working as an <strong>AI Engineer</strong>!</p>
+<p>I'm a <strong>final year Computer Science undergraduate</strong> passionate about <strong>AI 🤖 and Data Analytics 📊</strong>. Currently working as an <strong>AI Engineer</strong>!</p>
 
 <p>Welcome to my GitHub! 👻</p>
 
