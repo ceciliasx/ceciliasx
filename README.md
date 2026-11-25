@@ -74,4 +74,4 @@
 ## ⚡ Fun fact
 I love solving riddles, reading books, playing chess, and learning new tech every day! 😼
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliasx&layout=compact&theme=github_dark&hide_border=true)
